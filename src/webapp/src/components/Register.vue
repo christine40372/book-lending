@@ -15,7 +15,7 @@
 
 <script>
 export default {
-  name: 'RegisterForm', // 修正元件名稱為多個單字格式
+  name: 'RegisterForm', 
   data() {
     return {
       phone: '',
@@ -25,7 +25,7 @@ export default {
   },
   methods: {
     register() {
-      // 執行註冊相關的邏輯
+      // 註冊
     }
   }
 };
