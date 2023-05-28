@@ -36,7 +36,7 @@ export default {
   },
   computed: {
     filteredBooks() {
-      // 在此篩選或排序書籍清單的邏輯，例如根據特定條件過濾或排序 books
+      // 篩選或排序書籍清單的邏輯，例如根據特定條件過濾或排序 books
       return this.books;
     }
   },
