@@ -13,7 +13,7 @@
 
 <script>
 export default {
-  name: 'LoginForm', // 修正元件名稱為多個單字格式
+  name: 'LoginForm',
   data() {
     return {
       phone: '',
@@ -22,7 +22,7 @@ export default {
   },
   methods: {
     login() {
-      // 執行登入相關的邏輯
+      // 登入
     }
   }
 };
