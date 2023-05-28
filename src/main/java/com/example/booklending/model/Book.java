@@ -17,5 +17,5 @@ public class Book {
     @Column(name = "Introduction")
     private String introduction;
 
-    // getters and setters
+    
 }
