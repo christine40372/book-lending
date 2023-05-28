@@ -18,5 +18,4 @@ public class UserController {
         this.userService = userService;
     }
 
-    // Add GET, POST, PUT, DELETE handlers for user operations
 }
